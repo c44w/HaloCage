@@ -3,7 +3,7 @@ A safety device that adds more protection to the existing Halo used in open-whee
   
 ## Summary<a id='summary'></a>
 The HaloCage is a design concept built around the existing Halo crash-protection system used in open-wheel racing series like Formula One.  
-
+![HaloCage with Halo, front-left-angle view](images/HaloCage_v0/HaloCage_front-left-angle.png)  
 While the Halo itself does an excellent job of protecting the driver from being struck by larger objects, or in situations when the car is flipped over, it is not effective in shielding the driver from smaller objects and debris, which can also be very dangerous. The IndyCar series uses an aeroscreen for this reason, but remains the only series to do so. 
 
 The HaloCage is meant to increase the level of safety that the Halo provides, while avoiding some of the tradeoffs and challenges that come with the Aeroscreen. Still in its early stages, the current design concept is a transparent 3D-printed honeycomb structure made from polycarbonate.  
@@ -39,6 +39,9 @@ The ultimate goal of this open-source project is to address and reduce some of t
 ## Background<a id='background'></a>
 ### About the existing Halo<a id='about-the-existing-halo'></a>
 The Halo is a driver crash protection system used in open-wheel racing series, including Formula 1, Formula 2, Formula 3, Formula E, and others. It was introduced by the Fédération Internationale de l'Automobile (FIA) to enhance driver safety. The device consists of a curved bar placed above the driver's head, attached at three points to the vehicle's chassis.
+  
+![Halo (safety device) used in Formula 1 cars](images/Halo/Halo_Formula1/Halo_Formula1.jpg)
+["Halo (Formula 1)"](https://commons.wikimedia.org/wiki/File:Halo_%28Formula_1%29.jpg), by Jen Ross, licensed under [CC BY 2.5](https://creativecommons.org/licenses/by/2.5)
   
 The Halo has been credited with potentially saving several drivers’ lives and protecting them from severe injury.
   
