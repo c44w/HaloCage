@@ -62,8 +62,9 @@ The Halo has been credited with potentially saving several drivers’ lives and 
 ### About the Aeroscreen<a id='about-the-aeroscreen'></a>
 The Aeroscreen is a transparent screen which was adapted in 2019 for use in IndyCar by utilizing the Halo as a structural frame.
   
-![Aeroscreen used in IndyCars](images/Aeroscreen/2023%Indy%500/2023Indy500oward_(cropped.jpg))
-
+![Aeroscreen used in IndyCars](images/Aeroscreen/2023Indy500Oward/2023Indy500oward_(cropped).jpg)
+["2023 Indy 500 O’Ward"](https://commons.m.wikimedia.org/wiki/File:2023Indy500oward_%28cropped%29.jpg), by [350z33](https://en.wikipedia.org/wiki/User:350z33), licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/#:~:text=https%3A//creativecommons.org/licenses/by%2Dsa/4.0/)
+  
 #### Key Features<a id='aero-key-features'></a>
 * _Material_: The Aeroscreen is made from ballistic polycarbonate, providing high impact resistance and clarity.
 * _Design_: It includes a wraparound screen mounted on the existing Halo structural frame, providing full frontal protection while maintaining visibility.
@@ -130,7 +131,8 @@ The current conceptual design is being developed in the computer-aided design so
 * Structural reinforcements along the perimeter of the HaloCage
   
 ### Manufacturing and material considerations<a id='manufacturing-and-material-considerations'></a>
-The transparent honeycomb structure could be achieved with 3d-printed polycarbonate, a lightweight and impact-resistant plastic used in applications such as bulletproof glass, astronaut helmets, and the Aeroscreen used in IndyCar.
+The transparent honeycomb structure could be achieved with 3d-printed polycarbonate, a lightweight and impact-resistant plastic used in applications such as bulletproof glass, astronaut helmets, and the Aeroscreen used in IndyCar.  
+![Top-angle view of the HaloCage](images/HaloCage_v0/HaloCage-only_top-angle_web.png)
   
 However, due to the size limitations of 3D printers, the design will likely need to be broken up into multiple interlocking sections which are subsequently fused or glued together.
   
