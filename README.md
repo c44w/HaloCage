@@ -21,7 +21,7 @@ The ultimate goal of this open-source project is to address and reduce some of t
 &nbsp;&nbsp;[About the Aeroscreen](#about-the-aeroscreen)<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;[Key Features](#aero-key-features)<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;[Purpose](#aero-purpose)<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;[Limited use](#limited-use)<br/>
+&nbsp;&nbsp;[The case for the HaloCage](#the-case-for-the-HaloCage)<br/>
   
 [The HaloCage](#the-halocage)<br/>
 &nbsp;&nbsp;[Requirements](#requirements)<br/>
@@ -76,7 +76,9 @@ The Aeroscreen is a transparent screen which was adapted in 2019 for use in Indy
 #### Limited use<a id='limited-use'></a>
 * _Driver feedback_: Sebastian Vettel tested a similar screen called "Shield" in 2017 but reported issues with distorted and blurred vision, leading to the design being abandoned for Formula One. (Additional factors like aerodynamic effects or the weight of the device may have also contributed to its abandonment.)
 * _Adoption in other series_: The Aeroscreen has been successfully implemented in IndyCar but has not yet been widely adopted in other racing series, leaving the Halo as the primary safety device in those contexts. Perhaps the need for a solution like the Aeroscreen was more pressing for IndyCar, where races often take place on high-speed oval tracks, and the risk associated with hazardous debris is arguably higher.
-* _The case HaloCage_: It remains unclear if or when other series will implement a solution like the Aeroscreen, but it seems that at least the Halo is here to stay foreseeable future. Hence, the HaloCage can serve as an interim solution that takes all these realities into account.
+  
+### The case for the HaloCage<a id='the-case-for-the-HaloCage'></a>
+It remains unclear if or when the other series will implement a solution like the Aeroscreen, but it seems that at least the Halo is here to stay foreseeable future. Hence, the HaloCage can serve as an interim solution that takes all these realities into account.
   
 ## The HaloCage
 ### Requirements<a id='requirements'></a>
