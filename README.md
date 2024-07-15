@@ -61,6 +61,8 @@ The Halo has been credited with potentially saving several drivers’ lives and 
   
 ### About the Aeroscreen<a id='about-the-aeroscreen'></a>
 The Aeroscreen is a transparent screen which was adapted in 2019 for use in IndyCar by utilizing the Halo as a structural frame.
+  
+![Aeroscreen used in IndyCars](images/Aeroscreen/2023%Indy%500/2023Indy500oward_(cropped.jpg))
 
 #### Key Features<a id='aero-key-features'></a>
 * _Material_: The Aeroscreen is made from ballistic polycarbonate, providing high impact resistance and clarity.
