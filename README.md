@@ -76,11 +76,11 @@ The Aeroscreen is a transparent screen which was adapted in 2019 for use in Indy
 #### Limited use<a id='limited-use'></a>
 * _Driver feedback_: Sebastian Vettel tested a similar screen called "Shield" in 2017 but reported issues with distorted and blurred vision, leading to the design being abandoned for Formula One. (Additional factors like aerodynamic effects or the weight of the device may have also contributed to its abandonment.)
 * _Adoption in other series_: The Aeroscreen has been successfully implemented in IndyCar but has not yet been widely adopted in other racing series, leaving the Halo as the primary safety device in those contexts. Perhaps the need for a solution like the Aeroscreen was more pressing for IndyCar, where races often take place on high-speed oval tracks, and the risk associated with hazardous debris is arguably higher.
-* _The case for the HaloCage_: It remains unclear if or when other series will implement a solution like the Aeroscreen, but it seems that at least the Halo is here to stay for the foreseeable future. Hence, the HaloCage can serve as an interim solution that takes all these realities into account.
+* _The case HaloCage_: It remains unclear if or when other series will implement a solution like the Aeroscreen, but it seems that at least the Halo is here to stay foreseeable future. Hence, the HaloCage can serve as an interim solution that takes all these realities into account.
   
 ## The HaloCage
 ### Requirements<a id='requirements'></a>
-The goal of the HaloCage is to provide the highest level of protection for the drivers while having the least amount of impact on the car performance and the driving experience.
+The goal of the HaloCage is to provide the highest level of protection drivers while having the least amount of impact on the car performance and the driving experience.
   
 The following requirements will become more specific and quantifiable as development progresses:
   
@@ -119,7 +119,7 @@ The following requirements will become more specific and quantifiable as develop
 * Since the bodywork around the cockpit and below the Halo differs between cars, this might require a universal base design of the HaloCage, along with a custom portion that fills the gap between the base design and the chassis.
   
 ### Design<a id='design'></a>
-The [current conceptual design](https://a360.co/3WakMQN) is being developed in the computer-aided design software Autodesk Fusion 360. It is built around a publicly available [CAD file of the F1 Halo](https://grabcad.com/library/f1-halo-1). See the [Resources](#resources) section for the CAD files containing the HaloCage and the Halo.
+The [current conceptual design](https://a360.co/3WakMQN) is being developed in the computer-aided design software Autodesk Fusion 360. It is built around a publicly available [CAD file of the F1 Halo](https://grabcad.com/library/f1-halo-1). See the [Resources](#resources) section to download the CAD files containing the HaloCage and the Halo.
   
 #### Current state<a id='current-state'></a>
 * Transparent, thin-walled honeycomb structure (less than 1mm or ~⅜”) covering most of the unprotected area susceptible to airborne objects and debris
@@ -160,8 +160,8 @@ At this stage, collaboration has not yet begun. However, contributors are encour
 This project is licensed under the MIT license, which provides maximum freedom of use. See the [LICENSE](https://github.com/c44w/HaloCage/blob/main/LICENSE) file for details.
 
 ## Resources<a id='resources'></a>
-[HaloCage_v0.f3d](CAD/HaloCage_v0.f3d) (CAD file for Autodesk Fusion 360)  
-[HaloCage_v0.step](CAD/HaloCage_v0.step) (CAD file in universally-compatible STEP format)
+[HaloCage_v0.f3d](https://github.com/c44w/HaloCage/raw/main/CAD/HaloCage_v0.f3d) (CAD file for Autodesk Fusion 360)  
+[HaloCage_v0.step](https://github.com/c44w/HaloCage/raw/main/CAD/HaloCage_v0.step) (CAD file in universally-compatible STEP format)
     
 ## Sources and credits<a id='sources-and-credits'></a>
 ‘F1 Halo’ CAD file by Bhargav Gurrala on GrabCAD  
