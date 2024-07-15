@@ -113,9 +113,9 @@ The following requirements will become more specific and quantifiable as develop
   
 * The HaloCage should be relatively _easy to install_ on top of the Halo.
   
-* Ideally, _no fasteners or permanent bonding_ are needed and something like a set of latches would be enough to secure the HaloCage.
+* Ideally, _no fasteners or permanent bonding_ are needed and something like a set of latches would be enough to secure the HaloCage. Note: Of course, the design would need to ensure that the latches would not be affected by any impacts or forces–these would need to be transmitted through the contact areas with the Halo and the bodywork.
   
-* Since the bodywork around the cockpit and below the Halo differs between cars, this might require a universal base design of the HaloCage, along with a custom portion that fills the gap between the base and the chassis.
+* Since the bodywork around the cockpit and below the Halo differs between cars, this might require a universal base design of the HaloCage, along with a custom portion that fills the gap between the base design and the chassis.
   
 ### Design<a id='design'></a>
 The current conceptual design is being developed in the computer-aided design software Autodesk Fusion 360. It is built around a publicly available [CAD file of the F1 Halo](https://grabcad.com/library/f1-halo-1).
