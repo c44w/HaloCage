@@ -161,7 +161,7 @@ This project is licensed under the MIT license, which provides maximum freedom o
 
 ## Resources<a id='resources'></a>
 [HaloCage_v0.f3d](https://github.com/c44w/HaloCage/raw/main/CAD/HaloCage_v0.f3d) (CAD file for Autodesk Fusion 360)  
-[HaloCage_v0.step](https://github.com/c44w/HaloCage/raw/main/CAD/HaloCage_v0.step) (CAD file in universally-compatible STEP format)  
+[HaloCage_v0.step](https://github.com/c44w/HaloCage/raw/main/CAD/HaloCage_v0.step.zip) (CAD file in universally-compatible STEP format)  
     
 ## Sources and credits<a id='sources-and-credits'></a>
 ‘F1 Halo’ CAD file by Bhargav Gurrala on GrabCAD  
