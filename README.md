@@ -121,7 +121,8 @@ The following requirements will become more specific and quantifiable as develop
 * Since the bodywork around the cockpit and below the Halo differs between cars, this might require a universal base design of the HaloCage, along with a custom portion that fills the gap between the base design and the chassis.
   
 ### Design<a id='design'></a>
-The [current conceptual design](https://a360.co/3WakMQN) is being developed in the computer-aided design software Autodesk Fusion 360. It is built around a publicly available [CAD file of the F1 Halo](https://grabcad.com/library/f1-halo-1). See the [Resources](#resources) section to download the CAD files containing the HaloCage and the Halo.
+The [current conceptual design](https://a360.co/3WakMQN)[^1] is being developed in the computer-aided design software Autodesk Fusion 360. It is built around a publicly available [CAD file of the F1 Halo](https://grabcad.com/library/f1-halo-1). See the [Resources](#resources) section to download the CAD files containing the HaloCage and the Halo.  
+[^1]:You can view the 3D design through this link in your browser. If you are using a mobile device, you may click 'Continue in Browser' to view it without the Autodesk Fusion app.
   
 #### Current state<a id='current-state'></a>
 * Transparent, thin-walled honeycomb structure (less than 1mm or ~⅜”) covering most of the unprotected area susceptible to airborne objects and debris
