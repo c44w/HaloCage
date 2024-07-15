@@ -78,7 +78,7 @@ The Aeroscreen is a transparent screen which was adapted in 2019 for use in Indy
 * _Adoption in other series_: The Aeroscreen has been successfully implemented in IndyCar but has not yet been widely adopted in other racing series, leaving the Halo as the primary safety device in those contexts. Perhaps the need for a solution like the Aeroscreen was more pressing for IndyCar, where races often take place on high-speed oval tracks, and the risk associated with hazardous debris is arguably higher.
   
 ### The case for the HaloCage<a id='the-case-for-the-HaloCage'></a>
-It remains unclear if or when the other series will implement a solution like the Aeroscreen, but it seems that at least the Halo is here to stay foreseeable future. Hence, the HaloCage can serve as an interim solution that takes all these realities into account.
+It remains unclear if or when the other series will implement a solution like the Aeroscreen, but it seems that at least the Halo is here to stay for the foreseeable future. Hence, the HaloCage can serve as an interim solution that takes these realities into account.
   
 ## The HaloCage
 ### Requirements<a id='requirements'></a>
