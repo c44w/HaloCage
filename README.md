@@ -89,7 +89,7 @@ The following requirements will become more specific and quantifiable as develop
     * Ideally, objects shouldn’t get stuck on the HaloCage, although this could be considered an acceptable tradeoff.
     * The visibility of the mirrors should not be impacted.
   
-![HaloCago with Halo from the driver's view](images/HaloCage_v0/HaloCage_driver-view_web.png)
+![HaloCago with Halo from the driver's view](images/HaloCage_v0/HaloCage_driver-view_web_cropped.png)
   
 * _Effects on aerodynamics_
     * Excessive disturbances to the airflow should be avoided since this could impact the car’s performance.
