@@ -34,6 +34,7 @@ The ultimate goal of this open-source project is to address and reduce some of t
   
 [Contributing](#contributing)<br/>
 [License](#license)<br/>
+[Resources](#resources)<br/>
 [Sources and credits](#sources-and-credits)<br/>
   
 ## Background<a id='background'></a>
@@ -118,7 +119,7 @@ The following requirements will become more specific and quantifiable as develop
 * Since the bodywork around the cockpit and below the Halo differs between cars, this might require a universal base design of the HaloCage, along with a custom portion that fills the gap between the base design and the chassis.
   
 ### Design<a id='design'></a>
-The current conceptual design is being developed in the computer-aided design software Autodesk Fusion 360. It is built around a publicly available [CAD file of the F1 Halo](https://grabcad.com/library/f1-halo-1).
+The [current conceptual design](https://a360.co/3WakMQN) is being developed in the computer-aided design software Autodesk Fusion 360. It is built around a publicly available [CAD file of the F1 Halo](https://grabcad.com/library/f1-halo-1). See the [Resources](#resources) section for the CAD files containing the HaloCage and the Halo.
   
 #### Current state<a id='current-state'></a>
 * Transparent, thin-walled honeycomb structure (less than 1mm or ~⅜”) covering most of the unprotected area susceptible to airborne objects and debris
@@ -157,7 +158,11 @@ At this stage, collaboration has not yet begun. However, contributors are encour
    
 ## License<a id='license'></a>
 This project is licensed under the MIT license, which provides maximum freedom of use. See the [LICENSE](https://github.com/c44w/HaloCage/blob/main/LICENSE) file for details.
-  
+
+## Resources<a id='resources'></a>
+[HaloCage_v0.f3d](CAD/HaloCage_v0.f3d) (CAD file for Autodesk Fusion 360)  
+[HaloCage_v0.step](CAD/HaloCage_v0.step) (CAD file in universally-compatible STEP format)
+    
 ## Sources and credits<a id='sources-and-credits'></a>
 ‘F1 Halo’ CAD file by Bhargav Gurrala on GrabCAD  
 [https://grabcad.com/library/f1-halo-1](https://grabcad.com/library/f1-halo-1)
